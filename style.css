@@ -5,6 +5,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
+    transform: scale(0.8);
 }
 ul, li{
     list-style: none;
